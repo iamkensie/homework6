@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+p {font-size:20px;}
+#likea, #deletea, #likeb, #likec, #liked, #deleteb, #deletec, #deleted {
+	border: solid 1px #4CAF50;
+	margin: 2px;
+	color: white;
+	background-color: #4CAF50;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	cursor: pointer;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+
+
+#like1{
+    padding-left: 15px;
+}
+
+#like2{
+    padding-left: 21px;
+}
+
+#like3{
+    padding-left: 64px;
+}
+
+#like4{
+    padding-left:65px;
+}
+
+#likea{
+    margin-left: 10px;
+}
+
+#likeb{
+    margin-left: 13px;
+}
+
+#likec{
+    margin-left: 40px;
+}
+
+#liked{
+    margin-left: 50px;
+}
