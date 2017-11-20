@@ -1,0 +1,3 @@
+entrypoint: gcloud app browse
+env: flex
+runtime: python
